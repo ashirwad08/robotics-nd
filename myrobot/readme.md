@@ -1,7 +1,10 @@
-# Robotics Nano-Degree Projects  
+# Gazebo World  
 
-Projects created as part of Udacity's ND for Robotics.  
+Project contains a world file with the following models:  
+* robots: car-green-4wheels (2)  
+* custom created building  
+* some models such as tables, coke cans, beer cans, imported from gazebo model library.  
 
-* [Project 1: Gazebo World](https://github.com/ashirwad08/robotics-nd/tree/main/myrobot)  
+Project plug-in prints "Welcome to Ash's World!" message when compiled and run.  
 
 
